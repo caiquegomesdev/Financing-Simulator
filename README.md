@@ -31,7 +31,7 @@ O **Financing Simulator** é uma ferramenta interativa e intuitiva desenvolvida 
 
 1. **Clone este repositório** para sua máquina local:
     ```bash
-    git clone https://github.com/seu-usuario/financing-simulator.git
+    git clone https://github.com/caiquegomesdev/financing-simulator.git
     ```
    
 2. **Abra o arquivo `index.html`** em seu navegador para começar a usar o simulador.
